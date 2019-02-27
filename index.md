@@ -12,7 +12,7 @@ Student of Informatics
 
 ## Currently
 
-Standing on the shoulders of giants
+Studing to get my first degree in computer science 
 
 ### Specialized in
 
