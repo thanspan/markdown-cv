@@ -12,11 +12,10 @@ Student of Informatics
 
 ## Currently
 
-Studing to get my first degree in computer science 
+Studing to get my first degree in computer science.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 
 ### Research interests
