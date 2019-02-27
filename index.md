@@ -7,7 +7,8 @@ Student of Informatics
 
 <div id="webaddress">
 <a href="thansp@cv.com">thansp@cv.com</a>
-
+|
+</div>
 
 ## Currently
 
