@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Athanasios-Spiridon Spanos's CV
+title: Athanasios-Spyridon Spanos's CV
 ---
-# Athanasios-Spiridon Spanos
+# Athanasios-Spyridon Spanos
 Student of Informatics
 
 <div id="webaddress">
