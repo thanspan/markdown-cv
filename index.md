@@ -6,9 +6,7 @@ title: Athanasios-Spiridon Spanos's CV
 Student of Informatics
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+<a href="thansp@cv.com">thansp@cv.com</a>
 
 
 ## Currently
